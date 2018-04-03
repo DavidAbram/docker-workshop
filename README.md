@@ -12,3 +12,7 @@ If you want to install a new one, go to [VirtualBox installation](./install/virt
 ## 2. Docker / docker-compose installation
 
 If you don't have docker and docker-compose installed go to [Docker installation](./install/docker)
+
+## 3. All set, let's create some containers!
+
+When you have installed docker, go to [Materials](./materials)
