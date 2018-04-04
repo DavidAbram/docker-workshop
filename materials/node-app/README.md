@@ -1,4 +1,4 @@
-# Node-app
+# node-app
 
 1. Build docker image from Dockerfile
 ```shell
