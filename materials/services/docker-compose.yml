@@ -1,0 +1,14 @@
+version: "3"
+services:
+  web:
+    image: friendlyhello
+    ports:
+      - "80:80"
+    expose:
+      - 80
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - "/home/docker/data:/data"
